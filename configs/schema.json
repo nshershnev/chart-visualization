@@ -1,0 +1,10 @@
+{
+    "GlassnodeApiUrl": {
+        "doc": "Base url to Glassnode API",
+        "format": "url"
+    },
+    "GlassnodeKey": {
+        "doc": "Key to enable Glassnode API",
+        "format": "String"
+    }
+}

@@ -1,0 +1,9 @@
+.difficulty {
+    position: relative;
+}
+
+.difficulty .ant-spin {
+    position: absolute;
+    left: calc(50% - 17px);
+    top: 120px;
+}
